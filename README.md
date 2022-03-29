@@ -1,7 +1,7 @@
 # jogos-classicos-II
 
-trata-se de um game classico, onde o jogador auxiliar a vaca atravessar em segurança a rua.
+Trata-se de um game classico, onde o jogador auxiliar a vaca atravessar em segurança a rua.
 
-utilize as setas ↑ e ↓ 
+Utilize as setas ↑ e ↓ 
 
-link do jogo: https://andreneery.github.io/jogos-classicos-II/
+Link do jogo: <p><a href="https://andreneery.github.io/jogos-classicos-II/" target="_blank">Acesse aqui</a></p>
